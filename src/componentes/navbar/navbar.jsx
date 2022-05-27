@@ -17,9 +17,18 @@ export default function Home() {
       <MDBCollapse show={showNavExternal}>
         <div className="bg-dark p-4">
           <Row>
-          <a className="text-white" href="#">Collapsed content</a>
+          <h1 className="text-white">Patriky-B</h1>
           </Row>
-          <span className="text-white">Toggleable via the navbar brand.</span>
+          <Row>
+          <a className="text-white" href="#">portifólio</a>
+          </Row>
+          <Row>
+          <a className="text-white" href="#">WhatsApp</a>
+          </Row>
+          <Row>
+          <a className="text-white" href="#">Email</a>
+          </Row>
+          
         </div>
       </MDBCollapse>
       <MDBNavbar dark bgColor="dark">
