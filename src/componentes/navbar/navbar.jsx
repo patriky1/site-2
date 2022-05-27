@@ -28,9 +28,7 @@ export default function Home() {
           <Row>
           <a className="text-white" href="#">Email</a>
           </Row>
-          <Row>
-          <a className="text-white" href="#">Email</a>
-          </Row>
+
         </div>
       </MDBCollapse>
       <MDBNavbar dark bgColor="dark">
