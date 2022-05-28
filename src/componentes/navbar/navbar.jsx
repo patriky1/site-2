@@ -26,7 +26,7 @@ export default function Home() {
           <a className="text-white" href="#">WhatsApp</a>
           </Row>
           <Row>
-          <a className="text-white" href="#">Email</a>
+          <a className="text-white" href="#">Email</a> 
           </Row>
         </div>
       </MDBCollapse>
