@@ -1,0 +1,50 @@
+
+  .margemgeral{
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 500px;
+    background: rgba( 48, 48, 48, 0.45 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.5px );
+    -webkit-backdrop-filter: blur( 6.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+  }
+  .imagemgrid {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+  }
+
+.button1{
+  position: absolute;
+  top: 250px;
+
+
+}
+.button2{
+  position: absolute;
+
+
+
+}
+.margeml{
+  position: absolute;
+  top:190px;
+}
+.button3{
+  position: absolute;
+  top: 310px;
+}
+.button4{
+  position: absolute;
+  top: 370px;
+}
+
+.button5{
+  position: absolute;
+  top: 430px;
+}
