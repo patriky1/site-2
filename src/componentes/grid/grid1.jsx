@@ -39,9 +39,7 @@ export function GridPerfil() {
         </Button>
         </div>
       </div>
-<div>
-  <p> © all rights reserved, 2022.</p>
-</div>
+        <p> © all rights reserved, 2022.</p>
     </>
   );
 }
